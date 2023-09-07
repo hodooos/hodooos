@@ -1,5 +1,5 @@
 ## About me
-**Hi stranger 👋**. My name is Thomas, and I am development enthusiast. I like new things, especially the unknown in IT.  
+**Hi stranger 👋**. My name is Thomas, and I am ``development enthusiast``. I like new things, especially the unknown in IT.  
 Actualy I am student at [Epitech](https://epitech.eu/) 🎓.  
   
   
