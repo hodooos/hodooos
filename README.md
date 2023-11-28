@@ -6,6 +6,7 @@ Actualy I am student at [Epitech](https://epitech.eu/) 🎓.
 ## Contributions
 - Volunteer for [Devfest](https://devfest.gdgnantes.com/) 2022.
 - Development on several [Garry's Mod](https://facepunch.com/) servers.
+- I'm currently working for [Trust](https://trust-gaming.fr).
 
 
 ## Tech skills
