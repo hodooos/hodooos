@@ -21,6 +21,3 @@ Actualy I am student at [Epitech](https://epitech.eu/) 🎓.
 ### 🧑‍💻 Self-Taught
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,kubernetes,lua,nginx,postgres,figma&perline=6)](https://skillicons.dev)
 
-
-## GitHub stats
-[![Top dangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hodooos)](https://github.com/anuraghazra/github-readme-stats)
