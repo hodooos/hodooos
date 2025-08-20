@@ -13,10 +13,10 @@ Actualy I am student at [Epitech](https://epitech.eu/) 🎓.
 
 ## Tech skills
 ### 🎓 At School
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,jenkins,firebase,supabase,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,jenkins,firebase,supabase&perline=6)](https://skillicons.dev)
 
 ### 🏢 At Work
-[![My Skills](https://skillicons.dev/icons?i=py,qt,ts,js,tailwind,react,nextjs,azure,powershell&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,qt,ts,js,tailwind,react,nextjs,azure&perline=6)](https://skillicons.dev)
 
 ### 🧑‍💻 Self-Taught
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,kubernetes,lua,nginx,postgres,angular,figma&perline=6)](https://skillicons.dev)
