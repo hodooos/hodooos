@@ -9,6 +9,7 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 - Development on several [Garry's Mod](https://facepunch.com/) servers.
 - Formerly worked for [Trust](https://trust-gaming.fr).
 - Content creator on [gmodstore](https://www.gmodstore.com).
+- Currently working for [Caustics Studio](https://caustics-studio.com).
 
 
 ## Tech skills
