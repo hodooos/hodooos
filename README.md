@@ -19,5 +19,5 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 [![My Skills](https://skillicons.dev/icons?i=py,qt,ts,js,tailwind,react,nextjs,azure&perline=6)](https://skillicons.dev)
 
 ### 🧑‍💻 Self-Taught
-[![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,kubernetes,lua,nginx,postgres,angular,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet,kubernetes,lua,postgres,angular,figma&perline=6)](https://skillicons.dev)
 
