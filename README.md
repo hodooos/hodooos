@@ -10,6 +10,7 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 - Formerly worked for [Trust](https://trust-gaming.fr).
 - Content creator on [gmodstore](https://www.gmodstore.com).
 - Currently working for [Caustics Studio](https://caustics-studio.com).
+- Contributor at [Junior Conseil Taker](https://juniortaker.com).
 
 
 ## Tech skills
