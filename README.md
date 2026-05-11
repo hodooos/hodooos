@@ -28,29 +28,19 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 - LangChain
 - LangGraph
 - AutoGen
-- CrewAI
 - MCP (Model Context Protocol)
 
 ### RAG
 - LlamaIndex
 - Qdrant
 - pgvector
-- Pinecone
-- Weaviate
 
-### Observability & Eval
+### Observability
 - Langfuse
 - LangSmith
-- Ragas
 
 ### Models & Providers
 - OpenAI
 - Anthropic
 - Hugging Face
 - Ollama
-
-### Tooling
-- Pydantic AI
-- Instructor
-- OpenAI SDK
-- Anthropic SDK
