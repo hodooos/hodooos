@@ -1,7 +1,8 @@
 ## About me
 **Hi stranger 👋**. I am ``development enthusiast``.
 <br/> I like new things, especially the unknown in IT.  
-Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University](https://www.dcu.ie) 🎓.  
+Currently a Master 1 Computer Science Engineering student at [Epitech](https://epitech.eu/) 🎓.  
+Previously studied at [Dublin City University](https://www.dcu.ie) 🇮🇪.  
   
   
 ## Contributions
