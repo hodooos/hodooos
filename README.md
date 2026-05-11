@@ -7,11 +7,13 @@ Did an exchange at [Dublin City University](https://www.dcu.ie) 🇮🇪.
   
 ## Contributions
 - Volunteer for [Devfest](https://devfest.gdgnantes.com/) 2022.
-- Development on several [Garry's Mod](https://facepunch.com/) servers.
-- Formerly worked for [Trust](https://trust-gaming.fr).
 - Content creator on [gmodstore](https://www.gmodstore.com).
 - Currently working for [Caustics Studio](https://caustics-studio.com).
 - Contributor at [Junior Conseil Taker](https://juniortaker.com).
+
+
+## Projects
+- **[crate](https://github.com/hodooos/crate)** : Mini-Docker written from scratch in Go. Linux namespaces, cgroups v2, OCI image pull, overlayfs, networking.
 
 
 ## Tech skills
