@@ -19,10 +19,10 @@ Did an exchange at [Dublin City University](https://www.dcu.ie) 🇮🇪.
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,jenkins,firebase,supabase&perline=6)](https://skillicons.dev)
 
 ### 🏢 At Work
-[![My Skills](https://skillicons.dev/icons?i=py,qt,ts,js,tailwind,react,nextjs,azure&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,qt,ts,js,tailwind,react,nextjs,angular,cs,dotnet,kubernetes,azure&perline=6)](https://skillicons.dev)
 
 ### 🧑‍💻 Self-Taught
-[![My Skills](https://skillicons.dev/icons?i=go,rust,cs,dotnet,kubernetes,lua,postgres,angular,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,lua,postgres,figma&perline=6)](https://skillicons.dev)
 
 ## 🤖 AI
 ### LLMs & Providers
