@@ -23,16 +23,34 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 ### 🧑‍💻 Self-Taught
 [![My Skills](https://skillicons.dev/icons?i=go,rust,cs,dotnet,kubernetes,lua,postgres,angular,figma&perline=6)](https://skillicons.dev)
 
-### 🤖 AI / Agentic / RAG
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logo=langfuse&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B2AAD?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white)
-![Agents](https://img.shields.io/badge/AI%20Agents-10A37F?style=for-the-badge&logoColor=white)
+## 🤖 AI
+### Agentic
+- LangChain
+- LangGraph
+- AutoGen
+- CrewAI
+- MCP (Model Context Protocol)
+
+### RAG
+- LlamaIndex
+- Qdrant
+- pgvector
+- Pinecone
+- Weaviate
+
+### Observability & Eval
+- Langfuse
+- LangSmith
+- Ragas
+
+### Models & Providers
+- OpenAI
+- Anthropic
+- Hugging Face
+- Ollama
+
+### Tooling
+- Pydantic AI
+- Instructor
+- OpenAI SDK
+- Anthropic SDK
