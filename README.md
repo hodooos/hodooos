@@ -24,23 +24,23 @@ Actualy I am student at [Epitech](https://epitech.eu/) & [Dublin City University
 [![My Skills](https://skillicons.dev/icons?i=go,rust,cs,dotnet,kubernetes,lua,postgres,angular,figma&perline=6)](https://skillicons.dev)
 
 ## 🤖 AI
-### Agentic
+### LLMs & Providers
+- OpenAI (GPT-4, GPT-5)
+- Anthropic (Claude)
+- Hugging Face
+
+### AI Agents
 - LangChain
 - LangGraph
-- AutoGen
 - MCP (Model Context Protocol)
 
-### RAG
+### RAG & Vector Search
 - LlamaIndex
+- Embeddings
 - Qdrant
 - pgvector
 
-### Observability
+### LLMOps
 - Langfuse
-- LangSmith
-
-### Models & Providers
-- OpenAI
-- Anthropic
-- Hugging Face
-- Ollama
+- Prompt Engineering
+- Fine-tuning
